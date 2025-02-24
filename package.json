@@ -1,0 +1,37 @@
+{
+  "name": "ssh_key_decrypt",
+  "version": "0.1.2",
+  "description": "Decrypt encrypted ssh private keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "ssh",
+    "key",
+    "decrypt",
+    "pem",
+    "openssl",
+    "aes",
+    "aes129",
+    "aes256",
+    "aes128",
+    "des3",
+    "3des",
+    "des",
+    "des-ede3-cbc",
+    "passphrase"
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "devDependencies": {
+    "tap": "^1.2.0"
+  }
+}
